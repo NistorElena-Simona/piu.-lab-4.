@@ -1,0 +1,8 @@
+C:\Users\polie\OneDrive\Desktop\piu\tema 4\tema laborator 4\tema laborator 4\bin\Debug\tema laborator 4.exe.config
+C:\Users\polie\OneDrive\Desktop\piu\tema 4\tema laborator 4\tema laborator 4\bin\Debug\tema laborator 4.exe
+C:\Users\polie\OneDrive\Desktop\piu\tema 4\tema laborator 4\tema laborator 4\bin\Debug\tema laborator 4.pdb
+C:\Users\polie\OneDrive\Desktop\piu\tema 4\tema laborator 4\tema laborator 4\obj\Debug\tema laborator 4.csproj.AssemblyReference.cache
+C:\Users\polie\OneDrive\Desktop\piu\tema 4\tema laborator 4\tema laborator 4\obj\Debug\tema laborator 4.csproj.SuggestedBindingRedirects.cache
+C:\Users\polie\OneDrive\Desktop\piu\tema 4\tema laborator 4\tema laborator 4\obj\Debug\tema laborator 4.csproj.CoreCompileInputs.cache
+C:\Users\polie\OneDrive\Desktop\piu\tema 4\tema laborator 4\tema laborator 4\obj\Debug\tema laborator 4.exe
+C:\Users\polie\OneDrive\Desktop\piu\tema 4\tema laborator 4\tema laborator 4\obj\Debug\tema laborator 4.pdb
